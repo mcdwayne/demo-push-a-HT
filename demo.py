@@ -96,3 +96,6 @@ resource "aws_ssm_parameter" "secret" {
     ]
   }
 }
+
+# aws_access_key_id = AKIAVAGUQ5JERPTBAJLO
+# aws_secret_access_key = 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
